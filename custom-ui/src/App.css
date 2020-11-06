@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+
+.method-box {
+  position: absolute;
+  margin-top: 25px;
+  left: 100px;
+  width: 180px;
+  height: 55px;
+  text-align: left;
+  font-size: 35px;
+  border-radius: 5px;
+}
+
+.btn-send {
+  position: absolute;
+  top: 10px;
+  left: 250px;
+  height: 55px;
+  width: 100px;
+  border-radius: 5px;
+  background-color: grey;
+}
+
+.url-input {
+  position: absolute;
+  top: 30px;
+  left: 200px;
+  width: 750px;
+  height: 50px;
+  border-radius: 5px;
+  text-align: left;
+  font-size: 32px;
+}
+
+.side-bar {
+  position: absolute;
+  border-color: black;
+  background-color: lightgray;
+  left: 10px;
+  margin-top: 30px;
+  width: 300px;
+  height: 500px;
+  border-radius: 5px;
+}
+
+.response-box {
+  position: absolute;
+  left: 670px;
+  margin-top: 100px;
+  width: 750px;
+  height: 500px;
+}

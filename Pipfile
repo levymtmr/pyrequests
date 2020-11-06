@@ -9,6 +9,7 @@ flake8 = "*"
 [packages]
 urwid = "*"
 requests = "*"
+flask = "*"
 
 [requires]
 python_version = "3.8"
